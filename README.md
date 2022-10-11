@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Samwel Laurence
+- 👋 Hi, I’m Sam
 - 👀 I’m interested in any challenging projects
 - 🌱 I’m currently learning GoLang, Flutter part time
 - 💞️ I’m looking to collaborate on GoLang, Fluter, Java or Python
